@@ -1,7 +1,7 @@
 {
-  "name": "rn-swipe-button",
-  "version": "1.3.0",
-  "description": "react native swipe/slide button component",
+  "name": "rn-swipe-button-rectangular",
+  "version": "2.0.0",
+  "description": "react native swipe/slide button component with rectangular round rect corners",
   "main": "index.js",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UdaySravanK/RNSwipeButton.git"
+    "url": "git+https://github.com/abhigna-shah/RNSwipeButton.git"
   },
   "keywords": [
     "react-native-swipe-button",
@@ -34,9 +34,9 @@
   "author": "Uday Sravan Kumar Kamineni",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UdaySravanK/RNSwipeButton/issues"
+    "url": "https://github.com/abhigna-shah/RNSwipeButton/issues"
   },
-  "homepage": "https://github.com/UdaySravanK/RNSwipeButton#readme",
+  "homepage": "https://github.com/abhigna-shah/RNSwipeButton.git#readme",
   "devDependencies": {
     "@react-native-community/eslint-config": "^0.0.5",
     "eslint": "^6.3.0",
